@@ -1,0 +1,52 @@
+{
+    "topics": [
+        {
+            "key": "namedInsured",
+            "text": "Named Insured (including DBA/TA names)"
+        },
+        {
+            "key": "mailingAddress",
+            "text": "Mailing Address"
+        },
+        {
+            "key": "policyNumber",
+            "text": "Policy Number"
+        },
+        {
+            "key": "term",
+            "text": "Policy Term or Policy Period"
+        },
+        {
+            "key": "entityType",
+            "text": "Entity Type (form of Business) or Business Structure"
+        },
+        {
+            "key": "market",
+            "text": "Market (issuing company)"
+        },
+        {
+            "key": "locationSchedule",
+            "text": "Location Schedule"
+        },
+        {
+            "key": "premium",
+            "text": "Premium"
+        },
+        {
+            "key": "mep",
+            "text": "Minimum Earned Premium or Minimum Earned Percentage"
+        },
+        {
+            "key": "commission",
+            "text": "Commission"
+        },
+        {
+            "key": "terrorism",
+            "text": "Terrorism or TRIA Amount"
+        },
+        {
+            "key": "claims",
+            "text": "Claims Reporting Procedures"
+        }
+    ]
+}

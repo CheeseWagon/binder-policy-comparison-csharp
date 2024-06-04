@@ -1,0 +1,32 @@
+  {
+    "topics": [
+        {
+            "key": "mainCoverages",
+            "text": "Main Coverage/Limits"
+        },
+        {
+            "key": "retentionsDeductibles",
+            "text": "Retentions/Deductibles"
+        },
+        {
+            "key": "retroDate",
+            "text": "Retro Date"
+        },
+        {
+            "key": "litigationDate",
+            "text": "Pending/Prior Litigation Date"
+        },
+        {
+            "key": "continuityDate",
+            "text": "Continuity Date"
+        },
+        {
+            "key": "additionalInterest",
+            "text": "Additional Interest (Specific)"
+        },
+        {
+            "key": "additionalCoverageExtensions",
+            "text": "Additional Coverage/Extensions"
+        }
+    ]
+}
